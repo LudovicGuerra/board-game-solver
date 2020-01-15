@@ -1,4 +1,4 @@
-#!C:\Users\hermi\Desktop\Ludovic\Git\board-game-solver\les-batisseurs\venv\Scripts\python.exe
+#!F:\Perso\Python\board-game-solver\les-batisseurs\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re
